@@ -1,0 +1,9 @@
+.div_cabecalho_nav{
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+}
+nav{
+    display: flex;
+    gap: 10px;
+}
