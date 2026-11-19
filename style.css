@@ -1,14 +1,41 @@
-.div_cabecalho_nav{
+.div_cabecalho_nav {
     display:flex;
     justify-content:flex-end;
     align-items: center;
 }
-nav{
+nav {
     display: flex;
     gap: 10px;
 }
 
-#logo_email{
+#logo_email {
     display: flex;
     align-items: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+#logo_email a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#logo_whats {
+    display: flex;
+    align-items: center;
+}
+
+#logo_whats a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#logo_github {
+    display: flex;
+    align-items: center;
+}
+
+#logo_github a {
+    text-decoration: none;
+    color: inherit;
 }
