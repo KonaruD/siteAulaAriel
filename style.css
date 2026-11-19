@@ -7,3 +7,8 @@ nav{
     display: flex;
     gap: 10px;
 }
+
+#logo_email{
+    display: flex;
+    align-items: center;
+}
