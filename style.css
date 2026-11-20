@@ -39,3 +39,11 @@ nav {
     text-decoration: none;
     color: inherit;
 }
+
+#form_contato_cliente {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    margin-left: 5%;
+}
